@@ -8,5 +8,5 @@
 - 😄 Pronouns: Bi_Gu
 - ⚡ Fun fact: 1x2x3x...x9x10 is actually 10!
 
-![DaBiGu's GitHub stats](<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=DaBiGu&show_icons=true&count_private=true&theme=radical">)
+![DaBiGu's GitHub stats]<img align = "right" src = "https://github-readme-stats.vercel.app/api?username=DaBiGu&show_icons=true&count_private=true&theme=radical">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBiGu&layout=compact)
