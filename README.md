@@ -1,18 +1,11 @@
 ### Hi there 👋
-
-<!--
-**DaBiGu/DaBiGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on SI100B
+- 🌱 I’m currently learning EVERYTHING
+- 👯 I’m looking to collaborate on <Don't try to academic misconduct>
+- 🤔 I’m looking for help with how to learn
+- 💬 Ask me about me
+- 📫 How to reach me: liuyf8@shanghaitech.edu.cn or bigu2003@163.com
+- 😄 Pronouns: Bi_Gu
+- ⚡ Fun fact: 1*2*3*...*9*10 is actually 10!
 ![DaBiGu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaBiGu&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBiGu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaBiGu&layout=compact)]
