@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Detailed Information
+<details>
+<summary>Click to expand</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2016%20mins-blue)
 
@@ -64,3 +67,4 @@ C++                      1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 2024/02/25 01:53:50 UTC
 <!--END_SECTION:waka-->
+</details>
