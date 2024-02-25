@@ -7,8 +7,7 @@
  
 #### Wakatime Coding Activity Table
  
-.. image:: https://wakatime.com/share/@DaBiGu/11faee8b-ede8-4b88-9832-9a52d2d9e110.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DaBiGu/11faee8b-ede8-4b88-9832-9a52d2d9e110.png" /></a>
 #### Wakatime Languages Bar
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DaBiGu/62d3465d-a56f-45ad-90ac-c0d572601977.png" width = 600 /></a>
