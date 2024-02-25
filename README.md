@@ -1,7 +1,8 @@
 ### Hi There 👋
 [![wakatime](https://wakatime.com/badge/user/018dd8c2-2b76-4f37-80a8-ab626ebf7621.svg)](https://wakatime.com/@018dd8c2-2b76-4f37-80a8-ab626ebf7621)
-
+#### Wakatime Coding Activity Table
 ![](https://wakatime.com/share/@DaBiGu/1e75f5d4-1f72-4107-b9b8-746f93cfe19b.svg)
+#### Wakatime Languages Bar
 <img src=https://wakatime.com/share/@DaBiGu/de0d33b8-2f06-4bad-b57f-03afb5ae3a7d.svg width="600"/>
 
 ### Detailed Information
