@@ -10,7 +10,7 @@
 ![](https://wakatime.com/share/@DaBiGu/1e75f5d4-1f72-4107-b9b8-746f93cfe19b.svg)
 #### Wakatime Languages Bar
 
-<img src=https://wakatime.com/share/@DaBiGu/de0d33b8-2f06-4bad-b57f-03afb5ae3a7d.svg width="600"/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DaBiGu/b8c1f1cd-83be-40b3-b626-42dbb9c4cc3d.png" /></a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2054%20mins-blue)
