@@ -4,6 +4,7 @@
 ### Detailed Information
 <details>
 <summary>Click to expand</summary>
+ 
 #### Wakatime Coding Activity Table
  
 ![](https://wakatime.com/share/@DaBiGu/1e75f5d4-1f72-4107-b9b8-746f93cfe19b.svg)
