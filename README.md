@@ -2,9 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dd8c2-2b76-4f37-80a8-ab626ebf7621.svg)](https://wakatime.com/@018dd8c2-2b76-4f37-80a8-ab626ebf7621)
 
-### Programming Skills
-![](https://img.shields.io/badge/-python-blue?logo=python&logoColor=white)
+### Skills
+(In descending order)
+![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-csharp-512BD4?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/-pytorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### Detailed Information
 <details>
