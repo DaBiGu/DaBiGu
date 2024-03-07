@@ -4,6 +4,7 @@
 
 ### Skills
 (In descending order)
+
 ![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-csharp-512BD4?logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/-pytorch-EE4C2C?logo=pytorch&logoColor=white)
