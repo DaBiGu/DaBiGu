@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-csharp-512BD4?logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/-pytorch-EE4C2C?logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&&logoColor=white)
 
 ### Detailed Information
 <details>
