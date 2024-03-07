@@ -4,6 +4,7 @@
 
 ### Programming Skills
 ![](https://img.shields.io/badge/-python-blue?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-csharp-512BD4?logo=csharp&logoColor=white)
 
 ### Detailed Information
 <details>
