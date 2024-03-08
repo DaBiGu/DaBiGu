@@ -10,7 +10,9 @@
 [![](https://img.shields.io/badge/-Csharp-512BD4?logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&&logoColor=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-pytorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+
 and
+
 [![](https://img.shields.io/badge/-steam-000000?logo=steam&logoColor=white)](https://store.steampowered.com/)(?)
 
 ### Detailed Information
