@@ -12,8 +12,7 @@
 [![](https://img.shields.io/badge/-pytorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 and
-
-[![](https://img.shields.io/badge/-steam-000000?logo=steam&logoColor=white)](https://store.steampowered.com/)(?)
+[![](https://img.shields.io/badge/-steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/dabigu/)(?)
 
 ### Detailed Information
 <details>
