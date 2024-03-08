@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![](https://img.shields.io/badge/-Markdown-333333?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 [![](https://img.shields.io/badge/-Csharp-512BD4?logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
 [![](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&&logoColor=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
