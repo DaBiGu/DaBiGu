@@ -28,7 +28,7 @@ and
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DaBiGu/62d3465d-a56f-45ad-90ac-c0d572601977.png" width = 600 /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171.4%20thousand%20lines%20of%20code-blue)
 
@@ -95,6 +95,6 @@ C++                      1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/DaBiGu/DaBiGu/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/03/19 08:10:18 UTC
+ Last Updated on 2024/03/20 08:10:03 UTC
 <!--END_SECTION:waka-->
 </details>
